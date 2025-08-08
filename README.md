@@ -2,7 +2,7 @@
 
 This script demonstrates basic list operations in Python, showcasing how to create, modify, and retrieve information from lists.
 
-📜 Overview
+## 📜 Overview
 
 The program performs the following steps:
 
@@ -20,7 +20,7 @@ Sort the list in ascending order.
 
 Find and print the index of a specific value (30).
 
-🛠 How It Works
+## 🛠 How It Works
 
 Appending adds elements to the end of the list.
 
@@ -34,7 +34,7 @@ Sorting arranges the list in ascending order by default.
 
 Indexing returns the position of a given value.
 
-▶️ Running the Script
+## ▶️ Running the Script
 
 Make sure you have Python installed (version 3.x recommended), then run:
 
@@ -46,7 +46,7 @@ Edit
 
 python Lists.py
 
-📌 Example Output
+## 📌 Example Output
 
 csharp
 
@@ -68,7 +68,7 @@ Edit
 
 Index of 30 is: 3
 
-🎯 Learning Objectives
+## 🎯 Learning Objectives
 
 Understand Python list operations.
 
