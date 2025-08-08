@@ -1,4 +1,4 @@
-##List Operations in Python
+## List Operations in Python
 
 This script demonstrates basic list operations in Python, showcasing how to create, modify, and retrieve information from lists.
 
